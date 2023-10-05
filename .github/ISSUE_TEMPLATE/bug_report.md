@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: バグ修正時のテンプレート
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # バグの概要
 
 ## 該当箇所
