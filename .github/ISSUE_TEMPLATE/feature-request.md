@@ -1,6 +1,6 @@
 ---
-name: issueテンプレート
-about: issueを作成する際のテンプレート
+name: Feature Request
+about: 新機能追加時のテンプレート
 title: ''
 labels: ''
 assignees: ''
